@@ -1,2 +1,6 @@
-# code_btl
-lưu trữ code bài tập lớn
+# C_advance
+- src: những bài tập thực hành có trên classroom
+- tutorial: những bài tập chủ yếu để nhìn nhận kiến thức
+- mini_project: đồ án cuối khóa
+- Mục tiêu: Đầu tháng 3, mình sẽ bắt đầu làm teamwork và làm mini_project
+<img src="./img/C_advance.jpg" alt="nội dung chinh">
